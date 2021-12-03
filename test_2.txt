@@ -1,3 +1,4 @@
-Name: Olga
-Age:34
+<xml>
+<name>Olga</name>
+<age>34</age>
 
